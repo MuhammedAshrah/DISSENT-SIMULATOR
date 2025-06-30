@@ -16,6 +16,9 @@ DISSENT fixes this by introducing **Emergent Network Theory (ENT)** — a tunabl
 
 ---
 
+![DISSENT Simulation Banner](banner.png)
+
+
 ## ⚙️ Built Entirely From Scratch
 
 - ✅ No political modeling libraries
