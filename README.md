@@ -12,7 +12,7 @@ Most political science models simulate voters as isolated agents. But real-world
 
 DISSENT fixes this by introducing **Emergent Network Theory (ENT)** — a tunable influence layer between demographic groups.
 
-📄 **[Read the full write-up](./DISSENT_Explained.pdf)** (also in this repo)
+📄 **[Read the full write-up](./DISSENT _ Decision-making In Social Systems via Emergent Network Theory.pdf)** (also in this repo)
 
 ---
 
