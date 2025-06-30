@@ -38,7 +38,6 @@ DISSENT fixes this by introducing **Emergent Network Theory (ENT)** — a tunabl
 ## 👨‍💻 Author
 
 **Muhammed Ashrah**  
-AI Researcher 
 
 ---
 
